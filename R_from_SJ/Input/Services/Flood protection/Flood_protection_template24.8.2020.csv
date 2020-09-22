@@ -1,0 +1,20 @@
+Broad Scale Habitat;Biotic group;Contribution to supply;Name;Contribution to supply;Condition indicator name for species or group;;;;
+Littoral Rock and Biogenic Reef;Epifauna;2;;;;;Benthic fauna quality;linear;1x+0
+Littoral Rock and Biogenic Reef;Infauna;1;;;;;Benthic fauna quality;linear;1x+0
+Littoral Rock and Biogenic Reef;Macrophytes;3;;;;;Macrophytes;linear;1x+0
+Littoral Rock and Biogenic Reef;Macroalgae;2;;;;;Macroalgae;linear;1x+0
+Littoral Sediment;Macrophytes;3;Common reed;3;;;Macrophytes;linear;1x+0
+Littoral Sediment;Macroalgae;2;;;;;Macroalgae;linear;1x+0
+Shallow Sublittoral Rock and Biogenic Reef;Epifauna;2;;;;;Benthic fauna quality;linear;1x+0
+Shallow Sublittoral Rock and Biogenic Reef;Infauna;1;;;;;Benthic fauna quality;linear;1x+0
+Shallow Sublittoral Rock and Biogenic Reef;Macrophytes;3;;;;;Macrophytes;linear;1x+0
+Shallow Sublittoral Rock and Biogenic Reef;Macroalgae;3;Kelps;3;Kelp forest extent;;Macroalgae;linear;1x+0
+Shallow Sublittoral Coarse sediment;Macrophytes;3;;;;CPI;Macrophytes;linear;1x+0
+Shallow Sublittoral Coarse sediment;Macroalgae;3;Kelps;3;Kelp forest extent;CPI;Macroalgae;linear;1x+0
+Shallow Sublittoral Sand;Macrophytes;3;Seagrasses;3;EELGRASS;CPI;Macrophytes;linear;1x+0
+Shallow Sublittoral Sand;Macroalgae;3;;;;CPI;Macroalgae;linear;1x+0
+Shallow Sublittoral Mud;Macrophytes;3;;;;CPI;Macrophytes;linear;1x+0
+Shallow Sublittoral Mud;Macroalgae;3;;;;CPI;Macroalgae;linear;1x+0
+Shallow Sublittoral Mixed Sediment;Macrophytes;3;;;;CPI;Macrophytes;linear;1x+0
+Shallow Sublittoral Mixed Sediment;Macroalgae;3;;;;CPI;Macroalgae;linear;1x+0
+;;;;;;;; ; 
