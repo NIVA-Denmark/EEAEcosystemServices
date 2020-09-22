@@ -1,0 +1,405 @@
+Biotic_group;Group;SpeciesGroup;Species;SppID;IndicatorCode;Name of Indicator;Category
+Fish;Fish;Commercial Fish;Blue whiting (Micromesistius poutassou);14;F;F - Blue whiting (Micromesistius poutassou);Fish
+Fish;Fish;Commercial Fish;Boarfish (Capros aper);36;F;F - Boarfish (Capros aper);Fish
+Fish;Fish;Commercial Fish;Haddock (Melanogrammus aeglefinus);12;F;F - Haddock (Melanogrammus aeglefinus);Fish
+Fish;Fish;Commercial Fish;Hake (Merluccius merluccius);22;F;F - Hake (Merluccius merluccius);Fish
+Fish;Fish;Commercial Fish;Horse mackerel (Trachurus trachurus);38;F;F - Horse mackerel (Trachurus trachurus);Fish
+Fish;Fish;Commercial Fish;Mackerel (Scomber scombrus);50;F;F - Mackerel (Scomber scombrus);Fish
+Fish;Fish;Commercial Fish;Megrim (Lepidorhombus whiffiagonis);68;F;F - Megrim (Lepidorhombus whiffiagonis);Fish
+Fish;Fish;Commercial Fish;Blue whiting (Micromesistius poutassou);14;SSB;SSB - Blue whiting (Micromesistius poutassou);Fish
+Fish;Fish;Commercial Fish;Boarfish (Capros aper);36;SSB;SSB - Boarfish (Capros aper);Fish
+Fish;Fish;Commercial Fish;Haddock (Melanogrammus aeglefinus);12;SSB;SSB - Haddock (Melanogrammus aeglefinus);Fish
+Fish;Fish;Commercial Fish;Hake (Merluccius merluccius);22;SSB;SSB - Hake (Merluccius merluccius);Fish
+Fish;Fish;Commercial Fish;Horse mackerel (Trachurus trachurus);38;SSB;SSB - Horse mackerel (Trachurus trachurus);Fish
+Fish;Fish;Commercial Fish;Mackerel (Scomber scombrus);50;SSB;SSB - Mackerel (Scomber scombrus);Fish
+Fish;Fish;Commercial Fish;Megrim (Lepidorhombus whiffiagonis);68;SSB;SSB - Megrim (Lepidorhombus whiffiagonis);Fish
+Fish;Fish;Commercial Fish;Seabass (Dicentrarchus labrax);48;SSB;SSB - Seabass (Dicentrarchus labrax);Fish
+Cetaceans;Mammals;Cetacea;Harbour Porpoise;;M6;Annual bycatch as a percentage of the best abundance estimate;Mammals - Cetacea
+Benthic fauna quality;Benthic Habitats;Benthic Status;;;BH3;Benthic status;Benthic status
+Seals;Mammals;Seals;Grey Seal;;M3;Grey seals T1;Mammals - Carnivora
+Seals;Mammals;Seals;Harbour Seal;;M3;Harbour seals T1;Mammals - Carnivora
+Birds;Birds;Surface feeders, Breeding;;;B1;Abundance surface feeders, Breeding;Birds
+Birds;Birds;Wading feeders, Breeding;;;B1;Abundance wading feeders, Breeding;Birds
+Birds;Birds;All, Both;;;B1;Bird Abundance All, Both;Birds
+Birds;Birds;Benthic feeders, Breeding;;;B1;Bird Abundance benthic feeders, Breeding;Birds
+Birds;Birds;Benthic feeders, Non-breeding;;;B1;Bird Abundance benthic feeders, Non-breeding;Birds
+Birds;Birds;Grazing feeders, Non-breeding;;;B1;Bird Abundance grazing feeders, Non-breeding;Birds
+Birds;Birds;Surface feeders, Non-breeding;;;B1;Bird Abundance surface feeders, Non-breeding;Birds
+Birds;Birds;Total, Breeding;;;B1;Bird Abundance total, Breeding;Birds
+Birds;Birds;Total, Non-breeding;;;B1;Bird Abundance total, Non-breeding;Birds
+Birds;Birds;Wading feeders, Non-breeding;;;B1;Bird Abundance wading feeders, Non-breeding;Birds
+Birds;Birds;Water column feeders, Breeding;;;B1;Bird Abundance water column feeders, Breeding;Birds
+Birds;Birds;Water column feeders, Non-breeding;;;B1;Bird Abundance water column feeders, Non-breeding;Birds
+Birds;Birds;Surface Feeders, Breeding;Arctic skua;131;B3;Bird Breeding Success: Arctic skua;Birds
+Birds;Birds;Surface Feeders, Breeding;Arctic tern;113;B3;Bird Breeding Success: Arctic tern;Birds
+Birds;Birds;Surface Feeders, Breeding;Black-headed Gull;354;B3;Bird Breeding Success: Black-headed Gull;Birds
+Birds;Birds;Surface Feeders, Breeding;Black-legged kittiwake;110;B3;Bird Breeding Success: Black-legged kittiwake;Birds
+Birds;Birds;Pelagic feeders, Breeding;Common Guillemot;94;B3;Bird Breeding Success: Common Guillemot;Birds
+Birds;Birds;Surface Feeders, Breeding;Common Gull;105;B3;Bird Breeding Success: Common Gull;Birds
+Birds;Birds;Surface Feeders, Breeding;Common tern;112;B3;Bird Breeding Success: Common tern;Birds
+Birds;Birds;Pelagic feeders, Breeding;European shag;140;B3;Bird Breeding Success: European shag;Birds
+Birds;Birds;Surface Feeders, Breeding;Great Black-backed Gull;107;B3;Bird Breeding Success: Great Black-backed Gull;Birds
+Birds;Birds;Pelagic feeders, Breeding;Great Cormorant;418;B3;Bird Breeding Success: Great Cormorant;Birds
+Birds;Birds;Surface Feeders, Breeding;Great Skua;423;B3;Bird Breeding Success: Great Skua;Birds
+Birds;Birds;Surface Feeders, Breeding;Herring Gull;102;B3;Bird Breeding Success: Herring Gull;Birds
+Birds;Birds;Surface Feeders, Breeding;Lesser black-backed Gull;106;B3;Bird Breeding Success: Lesser black-backed Gull;Birds
+Birds;Birds;Surface Feeders, Breeding;Little Tern;114;B3;Bird Breeding Success: Little Tern;Birds
+Birds;Birds;Surface Feeders, Breeding;Northern Fulmar;144;B3;Bird Breeding Success: Northern Fulmar;Birds
+Birds;Birds;Pelagic feeders, Breeding;Northern gannet;141;B3;Bird Breeding Success: Northern gannet;Birds
+Birds;Birds;Pelagic feeders, Breeding;Puffin;93;B3;Bird Breeding Success: Puffin;Birds
+Birds;Birds;Pelagic feeders, Breeding;Razorbill;90;B3;Bird Breeding Success: Razorbill;Birds
+Birds;Birds;Surface Feeders, Breeding;Roseate tern;111;B3;Bird Breeding Success: Roseate tern;Birds
+Birds;Birds;Surface Feeders, Breeding;Sandwich tern;424;B3;Bird Breeding Success: Sandwich tern;Birds
+Fish;Fish;Commercial Fish;Cod (Gadus morhua);11;F;F - Cod (Gadus morhua);Fish
+Fish;Fish;Commercial Fish;Herring (Clupea harengus);5;F;F - Herring (Clupea harengus);Fish
+Fish;Fish;Commercial Fish;Plaice (Pleuronectes platessa);65;F;F - Plaice (Pleuronectes platessa);Fish
+Fish;Fish;Commercial Fish;Cod (Gadus morhua);11;SSB;SSB - Cod (Gadus morhua);Fish
+Fish;Fish;Commercial Fish;Herring (Clupea harengus);5;SSB;SSB - Herring (Clupea harengus);Fish
+Fish;Fish;Commercial Fish;Plaice (Pleuronectes platessa);65;SSB;SSB - Plaice (Pleuronectes platessa);Fish
+Invertebrate fisheries;Benthic Habitats;Commercial Fish;Norway lobster (Nephrops norvegicus);4810;F;F - Norway lobster (Nephrops norvegicus);Benthos
+Invertebrate fisheries;Benthic Habitats;Commercial Fish;Norway lobster (Nephrops norvegicus);4810;SSB;SSB - Norway lobster (Nephrops norvegicus);Benthos
+Fish;Fish;Commercial Fish;Saithe (Pollachius virens);15;F;F - Saithe (Pollachius virens);Fish
+Fish;Fish;Commercial Fish;Sole (Solea solea);74;F;F - Sole (Solea solea);Fish
+Fish;Fish;Commercial Fish;Saithe (Pollachius virens);15;SSB;SSB - Saithe (Pollachius virens);Fish
+Fish;Fish;Commercial Fish;Sole (Solea solea);74;SSB;SSB - Sole (Solea solea);Fish
+Invertebrate fisheries;Benthic Habitats;Commercial Fish;Northern shrimp (Pandalus borealis);4809;SSB;SSB - Northern shrimp (Pandalus borealis);Benthos
+Fish;Fish;Commercial Fish;Megrim (Lepidorhombus spp.);4808;F;F - Megrim (Lepidorhombus spp.);Fish
+Fish;Fish;Commercial Fish;Megrim (Lepidorhombus spp.);4808;SSB;SSB - Megrim (Lepidorhombus spp.);Fish
+Sediment_type;Benthic Habitats;Coarse;Coarse 2012;;BH2;Coarse 2012;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse 2013;;BH2;Coarse 2013;Benthic status
+Sediment_type;Benthic Habitats;Mixed;Mixed 2012;;BH2;Mixed 2012;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand 2012;;BH2;Sand 2012;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand 2013;;BH2;Sand 2013;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse;;BH2;Coarse;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse 2010;;BH2;Coarse 2010;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse 2011;;BH2;Coarse 2011;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand;;BH2;Sand;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand 2010;;BH2;Sand 2010;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand 2011;;BH2;Sand 2011;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud;;BH2;Mud;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud 2010;;BH2;Mud 2010;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud 2012;;BH2;Mud 2012;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud 2015;;BH2;Mud 2015;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand 2015;;BH2;Sand 2015;Benthic status
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Benthic invertebrates species richness;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Benthic species richness;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;MML;MML;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;MTL;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Typological group highly sensitive to seafloor physical impact;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Typological group sensitive to seafloor physical impact;Benthic_Habitats
+Birds;Birds;Birds;;;;Bird species richness;Birds
+Fish;Fish;Fish;;;LFI;LFI;Fish
+Cetaceans;Mammals;Cetaceans;;;;Mammal species richness;Mammals
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Copepod concentration;Pelagic_Habitats
+Pelagic;Pelagic Habitats;Pelagic habitats;;;;Pelagic species richness;Pelagic_Habitats
+Phytoplankton;Pelagic Habitats;Phytoplankton;;;;Phytoplankton species richness;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Zooplankton species richness;Pelagic_Habitats
+Sediment_type;Benthic Habitats;Coarse;Coarse, 2011;;BH2;Coarse, 2011;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse, 2012;;BH2;Coarse, 2012;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse, 2013;;BH2;Coarse, 2013;Benthic status
+Sediment_type;Benthic Habitats;Coarse;Coarse, 2014;;BH2;Coarse, 2014;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud 2011;;BH2;Mud 2011;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud 2013;;BH2;Mud 2013;Benthic status
+Sediment_type;Benthic Habitats;Mud;Mud 2014;;BH2;Mud 2014;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand 2014;;BH2;Sand 2014;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand, 2011;;BH2;Sand, 2011;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand, 2012;;BH2;Sand, 2012;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand, 2013;;BH2;Sand, 2013;Benthic status
+Sediment_type;Benthic Habitats;Sand;Sand, 2014;;BH2;Sand, 2014;Benthic status
+Birds;Birds;waterbirds in the breeding season - benthic feeders;;;Abundance of waterbirds in the breeding season;Abundance of waterbirds in the breeding season - benthic feeders;Birds
+Birds;Birds;waterbirds in the breeding season - grazing feeders;;;Abundance of waterbirds in the breeding season;Abundance of waterbirds in the breeding season - grazing feeders;Birds
+Birds;Birds;waterbirds in the breeding season - pelagic feeders;;;Abundance of waterbirds in the breeding season;Abundance of waterbirds in the breeding season - pelagic feeders;Birds
+Birds;Birds;waterbirds in the breeding season - surface feeders;;;Abundance of waterbirds in the breeding season;Abundance of waterbirds in the breeding season - surface feeders;Birds
+Birds;Birds;waterbirds in the breeding season - wading feeders;;;Abundance of waterbirds in the breeding season;Abundance of waterbirds in the breeding season - wading feeders;Birds
+Birds;Birds;waterbirds in the wintering season - benthic feeders;;;Abundance of waterbirds in the wintering season;Abundance of waterbirds in the wintering season - benthic feeders;Birds
+Birds;Birds;waterbirds in the wintering season - grazing feeders;;;Abundance of waterbirds in the wintering season;Abundance of waterbirds in the wintering season - grazing feeders;Birds
+Birds;Birds;waterbirds in the wintering season - pelagic feeders;;;Abundance of waterbirds in the wintering season;Abundance of waterbirds in the wintering season - pelagic feeders;Birds
+Birds;Birds;waterbirds in the wintering season - surface feeders;;;Abundance of waterbirds in the wintering season;Abundance of waterbirds in the wintering season - surface feeders;Birds
+Chlorophyll A;Pelagic Habitats;Chlorophyll A;;;ChlorophyllA;Chlorophyll a;Phytoplankton
+Benthic fauna quality;Benthic Habitats;DKI;;;DKI;DKI;Benthic
+Macrophytes;Benthic Habitats;Macrophytes;;;EELGRASS;EELGRASS;Macrophytes
+Chlorophyll A;Pelagic Habitats;Chlorophyll A;;;ChlorophyllA;CHL-A;Phytoplankton
+Seals;Mammals;Seals;Harbour Seal;;Population trends and abundance of seals;Population trends and abundance of seals - Harbour seal, pop.growth;Mammals
+Fish;Fish;key coastal fish species;Flounder;;Abundance of key coastal fish species;Abundance of key coastal fish species - Flounder;Fish
+Seals;Mammals;Seals;Harbour Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Harbour seal, breeding;Mammals
+Seals;Mammals;Seals;Harbour Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Harbour seal, moulting;Mammals
+Seals;Mammals;Seals;Harbour Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Harbour seal, occupancy;Mammals
+Seals;Mammals;Seals;Harbour Seal;;Population trends and abundance of seals;Population trends and abundance of seals - Harbour seal, abundance;Mammals
+Seals;Mammals;Seals;Grey Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Grey seal, breeding;Mammals
+Seals;Mammals;Seals;Grey Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Grey seal, moulting;Mammals
+Seals;Mammals;Seals;Grey Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Grey seal, occupancy;Mammals
+Seals;Mammals;Seals;Grey Seal;;Nutritional status of seals;Nutritional status of seals - Grey seal, by-catch;Mammals
+Seals;Mammals;Seals;Grey Seal;;Nutritional status of seals;Nutritional status of seals - Grey seal, hunted;Mammals
+Seals;Mammals;Seals;Grey Seal;;Population trends and abundance of seals;Population trends and abundance of seals - Grey seal, abundance;Mammals
+Seals;Mammals;Seals;Grey Seal;;Population trends and abundance of seals;Population trends and abundance of seals - Grey seal, pop.growth;Mammals
+Seals;Mammals;Seals;;;Reproductive status of seals;Reproductive status of seals - Grey seal;Mammals
+Phytoplankton;Pelagic Habitats;Cyanobacteria Bloom Index;;;Cyanobacteria Bloom Index;Cyanobacteria Bloom Index;Phytoplankton
+Oxygen;Benthic Habitats;Oxygen;;;Oxygen Debt;Oxygen Debt;Benthic
+Benthic fauna quality;Benthic Habitats;Invertebrates;;;Macrofauna community;State of the soft-bottom macrofauna community;Benthic
+Fish;Fish;coastal fish key functional groups;;;Abundance of coastal fish key functional groups;Abundance of coastal fish key functional groups - Cyprinids/mesopredators;Fish
+Fish;Fish;coastal fish key functional groups;;;Abundance of coastal fish key functional groups;Abundance of coastal fish key functional groups - Piscivores;Fish
+Fish;Fish;key coastal fish species;Perch;;Abundance of key coastal fish species;Abundance of key coastal fish species - Perch;Fish
+Benthic fauna quality;Benthic Habitats;Benthic Quality Index;;;Benthic Quality Index;Benthic Quality Index;Benthic
+Oxygen;Benthic Habitats;Oxygen;;;Oxygen;Oxygen;Benthic
+Secchi;Benthic Habitats;Secchi Depth;;;Secchi Depth;Secchi Depth;Benthic
+Macrophytes;Benthic Habitats;Macrophytes;;;Macrovegetation Quality element;Macrovegetation Quality element;Macrophytes
+Seals;Mammals;Seals;Ringed Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Ringed seal, breeding;Mammals
+Seals;Mammals;Seals;Ringed Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Ringed seal, moulting;Mammals
+Seals;Mammals;Seals;Ringed Seal;;Distribution of Baltic seals;Distribution of Baltic seals - Ringed seal, occupancy;Mammals
+Seals;Mammals;Seals;;;Population trends and abundance of seals;Population trends and abundance of seals - Ringed seal, abundance;Mammals
+Seals;Mammals;Seals;;;Population trends and abundance of seals;Population trends and abundance of seals - Ringed seal, pop.growth;Mammals
+Zooplankton;Pelagic Habitats;Zooplankton;;;Zooplankton mean size;Zooplankton mean size;Zooplankton
+Benthic fauna quality;Benthic Habitats;Invertebrates;;;Zoobenthos Quality element;Zoobenthos Quality element;Benthic
+Benthic fauna quality;Benthic Habitats;Invertebrates;;;Zoobenthos Quality element (B);Zoobenthos Quality element (B);Benthic
+Benthic fauna quality;Benthic Habitats;BBI;;;BBI;BBI;Benthic
+Macrophytes;Benthic Habitats;Macrophytes;;;Macrophytes sheltered;Macrophytes sheltered;Macrophytes
+Phytoplankton;Pelagic Habitats;Phytoplankton biovolume;;;Phytoplankton biovolume;Phytoplankton biovolume;Phytoplankton
+Macroalgae;Benthic Habitats;Proportion of perennial species;;;Proportion of perennial species;Proportion of perennial species;Benthic
+Macroalgae;Benthic Habitats;Macroalgae;Fucus vesiculosus;;Fucus vesiculosus depth distribution;Fucus vesiculosus depth distribution;Macroalgae
+Chlorophyll A;Pelagic Habitats;Chlorophyll A;;;ChlorophyllA;Chl a annual;Phytoplankton
+Macrophytes;Benthic Habitats;Macrophytes;;;Macrovegetation Quality element;Macrovegetation Quality element (SM1);Macrophytes
+Macroalgae;Benthic Habitats;Macroalgae;Furcellaria lumbricalis;;Furcellaria lumbricalis depth distribution;Furcellaria lumbricalis depth distribution;Benthic
+Macrophytes;Benthic Habitats;Phytobenthos Ecological Quality Index;;;Phytobenthos Ecological Quality Index;Phytobenthos Ecological Quality Index;Macrophytes
+Macrophytes;Benthic Habitats;Macrophytes;;;Macrophytes macroflora depth distribution;Macrophytes macroflora depth distribution;Macrophytes
+Fish;Fish;Fish;;;;Scophtalmus maximus biomass;Fish
+Fish;Fish;Fish;;;;Scophtalmus maximus mean length;Fish
+Fish;Fish;Fish;;;;Scophtalmus maximus ratio catch/biomass;Fish
+Fish;Fish;Fish;;;;Scophtalmus maximus sexually mature specimen;Fish
+Fish;Fish;Fish;;;;Sprattus spratu sexually mature specimen;Fish
+Fish;Fish;Fish;;;;Sprattus spratus  ratio catch/biomass;Fish
+Fish;Fish;Fish;;;;Sprattus spratus biomass;Fish
+Fish;Fish;Fish;;;;Sprattus spratus mean length;Fish
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;AMBI;AMBI;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;EEIc;EEIc;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;H index, zoobenthos;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;IBI;IBI, spring;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;IBI;IBI, summer;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;AMBI-M;M-AMBI;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Menhinick index, spring;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Menhinick index, summer;Benthic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;H index  mesozoo spring;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;H index  mesozoo summer;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;M.leyidii summer;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;N. scintilans, spring;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;B mesozooplankton, spring;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;B mesozooplankton, summer;Pelagic_Habitats
+Fish;Fish;Fish;;;;H index fish;Fish
+Fish;Fish;Commercial Fish;E. encrasicolus;;F/FMsy;E. encrasicolus;Fish
+Fish;Fish;Commercial Fish;L. budegassa;;F/FMsy;L. budegassa;Fish
+Fish;Fish;Commercial Fish;L. piscatorius;;F/FMsy;L. piscatorius;Fish
+Fish;Fish;Commercial Fish;M. barbatus;;F/FMsy;M. barbatus;Fish
+Fish;Fish;Commercial Fish;M. merluccius;;F/FMsy;M. merluccius;Fish
+Fish;Fish;Commercial Fish;M. surmuletus;;F/FMsy;M. surmuletus;Fish
+Fish;Fish;Commercial Fish;P. bogaraveo;;F/FMsy;P. bogaraveo;Fish
+Fish;Fish;Commercial Fish;S. pilchardus;;F/FMsy;S. pilchardus;Fish
+Fish;Fish;Commercial Fish;B. boops;;F/FMsy;B. boops;Fish
+Invertebrate fisheries;Benthic Habitats;Invertebrates;A. antennatus;;F/FMsy;A. antennatus;Benthos
+Invertebrate fisheries;Benthic Habitats;Invertebrates;P. longirostris;;F/FMsy;P. longirostris;Benthos
+Fish;Fish;Commercial Fish;M. poutassou;;F/FMsy;M. poutassou;Fish
+Invertebrate fisheries;Benthic Habitats;Invertebrates;N. norvegicus;;F/FMsy;N. norvegicus;Benthos
+Fish;Fish;Commercial Fish;D. labrax;;F/FMsy;D. labrax;Fish
+Fish;Fish;Commercial Fish;S. aurata;;F/FMsy;S. aurata;Fish
+Fish;Fish;Commercial Fish;T. trachurus;;F/FMsy;T. trachurus;Fish
+Fish;Fish;Commercial Fish;G. melastomus;;F/FMsy;G. melastomus;Fish
+Fish;Fish;Commercial Fish;P. erythrinus;;F/FMsy;P. erythrinus;Fish
+Invertebrate fisheries;Benthic Habitats;Invertebrates;A. foliacea;;F/FMsy;A. foliacea;Benthos
+Invertebrate fisheries;Benthic Habitats;Invertebrates;S. mantis;;F/FMsy;S. mantis;Benthos
+Benthic species;Benthic Habitats;Benthic habitats;;;;Abra alba;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Abra nitida;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Acanthochitona fascicularis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Amphipholis squamata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Amphiura chiajei;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Amphiura filiformis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Anomia ephippium;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Antalis inaequicostata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Aporrhais pespelecani;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Bela brachystoma;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Calyptraea chinensis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Corbula gibba;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Cylichna cylindracea;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Diplodonta rotundata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Dosinia lupinus;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Eulima glabra;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Euspira nitida;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Gari fervensis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Gastrochaena dubia;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Hiatella arctica;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Hyala vitrea;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Kellia suborbicularis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Kurtiella bidentata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Laevicardium crassum;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Loripes lucinalis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Lucinella divaricata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Mangelia attenuata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Mangelia coarctata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Megastomia conoidea;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Monia patelliformis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Myrtea spinifera;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Nassarius mutabilis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Nassarius pygmaeus;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Neolepton obliquatum;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Nucula nitidosa;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Nuculana pella;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Ophiura albida;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Ophiura carnea;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Ophiura grubei;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Ova canaliferus;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Papillicardium papillosum;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Parvicardium exiguum;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Parvicardium minimum;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Pharus legumen;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Phaxas adriaticus;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Phaxasa adriaticus;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Pitar rudis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Retusa umbilicata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Saccella commutata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Saccella illirica;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Spisula subtruncata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Tellina albicans;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Tellina distorta;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Tellina donacina;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Tellina pulchella;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Tellina serrata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Thracia phaseolina;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Thyasira flexuosa;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Timoclea ovata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Trachythyone elongata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Trophonopsis muricata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Turbonilla rufa;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Turritella communis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Venerupis corrugata;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Virgularia mirabilis;Benthic_Habitats
+Cetaceans;Mammals;Cetaceans;;;;Tursiops truncatus abundance;Mammals
+Fish;Fish;Commercial Fish;S. solea;;F/FMsy;S. solea;Fish
+Cetaceans;Mammals;Cetaceans;;;;Stenella coeruleoalba distributional range;Mammals
+Cetaceans;Mammals;Cetaceans;;;;Tursiops truncatus by catch;Mammals
+Cetaceans;Mammals;Cetaceans;;;;Tursiops truncatus distributional range;Mammals
+Benthic species;Benthic Habitats;Benthic habitats;;;;Pennatula rubra;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Acarina;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Anfipoda;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Bivalvia;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Cumacea;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Funiculina quadrangularis;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Gnathostomulida;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Holothuroidea;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Hydroid juveniles;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Isopoda;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Kinorhyncha;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Nauplii;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Nematoda;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Oligochaeta;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Ophiuroidea juveniles;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Polychaeta;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Priapulida larvae;Benthic_Habitats
+Benthic species;Benthic Habitats;Benthic habitats;;;;Ptereoides spinosum;Benthic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Copepoda;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Ostracoda;Pelagic_Habitats
+Cetaceans;Mammals;Cetaceans;;;;Grampus griseus abundance;Mammals
+Cetaceans;Mammals;Cetaceans;;;;Grampus griseus distributional range;Mammals
+Cetaceans;Mammals;Cetaceans;;;;Stenella coeruleoalba abundance;Mammals
+Cetaceans;Mammals;Cetaceans;;;;Ziphius cavirostris distributional range;Mammals
+Cetaceans;Mammals;Cetaceans;;;;Ziphius cavirostris risk of exposure;Mammals
+Fish;Fish;Fish;;;;% of stocks that meet GES based on reproductive capacity;Fish
+Fish;Fish;Fish;;;;% of stocks that meet GES based on reproductive capacity and biomass indices;Fish
+Fish;Fish;Fish;;;;% Threatened sharks;Fish
+Cetaceans;Mammals;Mammals;;;;% Threatened mammals;Mammals
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;BENTIX;Benthic Fauna (BENTIX);Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;BENTIX;Benthic Fauna (Multimetric BENTIX);Benthic_Habitats
+Macrophytes;Benthic Habitats;Benthic habitats;;;EEI;Benthic Vegetation (EEI EQR);Benthic_Habitats
+Fish;Fish;Commercial Fish;S. smaris;;F/FMsy;S. smaris;Fish
+Fish;Fish;Commercial Fish;Black-bellied anglerfish (Lophius budegassa);24;F;F - Black-bellied anglerfish (Lophius budegassa);Fish
+Fish;Fish;Commercial Fish;White anglerfish (Lophius piscatorius);25;F;F - White anglerfish (Lophius piscatorius);Fish
+Fish;Fish;Commercial Fish;Black-bellied anglerfish (Lophius budegassa);24;SSB;SSB - Black-bellied anglerfish (Lophius budegassa);Fish
+Fish;Fish;Commercial Fish;White anglerfish (Lophius piscatorius);25;SSB;SSB - White anglerfish (Lophius piscatorius);Fish
+Macrophytes;Benthic Habitats;Macrophytes;;;PREI;PREI;Macrophytes
+Macrophytes;Benthic Habitats;Macrophytes;;;EQR;EQR Value;Macrophytes
+Macrophytes;Benthic Habitats;Macrophytes;;;;Bentix;Macrophytes
+Fish;Fish;Commercial Fish;Greenland halibut (Reinhardtius hippoglossoides);66;F;F - Greenland halibut (Reinhardtius hippoglossoides);Fish
+Fish;Fish;Commercial Fish;Greenland halibut (Reinhardtius hippoglossoides);66;SSB;SSB - Greenland halibut (Reinhardtius hippoglossoides);Fish
+Birds;Birds;All, Both;;;B1;Abundance All, Both;Birds
+Birds;Birds;Grazing feeders, Non-breeding;;;B1;Abundance grazing feeders, Non-breeding;Birds
+Birds;Birds;Total, Breeding;;;B1;Abundance total, Breeding;Birds
+Birds;Birds;Total, Non-breeding;;;B1;Abundance total, Non-breeding;Birds
+Birds;Birds;Water column feeders, Non-breeding;;;B1;Abundance water column feeders, Non-breeding;Birds
+Birds;Birds;Pelagic feeders, Breeding;Black Guillemot;92;B3;Bird Breeding Success: Black Guillemot;Birds
+Birds;Birds;Pelagic feeders, Breeding;Brunnichs guillemot;95;B3;Bird Breeding Success: Brunnichs guillemot;Birds
+Birds;Birds;Surface Feeders, Breeding;Glaucous Gull;359;B3;Bird Breeding Success: Glaucous Gull;Birds
+Birds;Birds;Pelagic feeders, Breeding;Little Auk;91;B3;Bird Breeding Success: Little Auk;Birds
+Invertebrate fisheries;Benthic Habitats;Commercial Fish;Northern shrimp (Pandalus borealis);4809;F;F - Northern shrimp (Pandalus borealis);Benthos
+Birds;Birds;Birds;;;;Abundance of Alle alle at sea (Little auk, sighting data);Birds
+Birds;Birds;Birds;;;;Abundance of Fratercula arctica at sea (atlantic puffin, sighting data);Birds
+Birds;Birds;Birds;;;;Abundance of Fulmarus glacialis at sea (Northern fulmar, sighting data);Birds
+Birds;Birds;Birds;;;;Abundance of Rissa tridactyla at sea (black-legged kittiwake, sighting data);Birds
+Birds;Birds;Birds;;;;Abundance of Uria aalge at sea (common guillemot, sighting data);Birds
+Birds;Birds;Birds;;;;Abundance of Uria lomvia at sea (polar guillemot, sighting data);Birds
+Birds;Birds;Birds;;;;Fratercula arctica Population trend over last 5 yr;Birds
+Birds;Birds;Birds;;;;Proportion of non-threatened Benthos-feeding seabird species;Birds
+Birds;Birds;Birds;;;;Proportion of non-threatened Pelagos-feeding seabird species;Birds
+Birds;Birds;Birds;;;;Rissa tridactyla Population trend over last 5 yr;Birds
+Birds;Birds;Birds;;;;Uria aalge Population trend over last 5 yr;Birds
+Birds;Birds;Birds;;;;Uria lomvia Breeding success over last 3 yr;Birds
+Birds;Birds;Birds;;;;Uria lomvia Population trend over last 5 yr;Birds
+Fish;Fish;Fish;;;;Gadus morhua SSB (COD in Subareas I and II);Fish
+Fish;Fish;Fish;;;;Hippoglosoides platessoides 0-group abundance (Long rough dab - 0-group - Abundance indices);Fish
+Fish;Fish;Fish;;;SSB;Melanogrammus aeglefinus SSB (HADDOCK in Subareas I and II);Fish
+Fish;Fish;Fish;;;;Proportion of non-threatened Fish species (according to Norwegian red list);Fish
+Cetaceans;Mammals;Cetaceans;;;;Proportion of non-threatened Cetacean species (from Norwegian Red list);Mammals
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Abundance level of Calanus finmarchicus;Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Biomass of zooplankton [>2 mm];Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Biomass of zooplankton [0.18 mm-1 mm];Pelagic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Biomass of zooplankton [1 mm-2 mm];Pelagic_Habitats
+Birds;Birds;Birds;;;;Rissa tridactyla Breeding success over last 5 yr;Birds
+Cetaceans;Mammals;Cetaceans;;;;Proportion of non-threatened coastal mammal species (3 species);Mammals
+Cetaceans;Mammals;Cetaceans;;;;Proportion of non-threatened pagophiletic Mammals;Mammals
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Stock of Pandalus borealis (NORTHERN SHRIMP IN THE BARENTS SEA (ICES SUB-AREAS I AND II));Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;ES100;ES100;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;evenness [macrofauna];Benthic_Habitats
+Macroalgae;Benthic Habitats;Macrophytes;;;;Kelp forest extent;Benthic_Habitats
+Birds;Birds;Wading feeders, Non-breeding;;;B1;Abundance wading feeders, Non-breeding;Birds
+Birds;Birds;Surface feeders, Breeding;;;B1;Bird Abundance surface feeders, Breeding;Birds
+Birds;Birds;Surface Feeders, Breeding;Manx Shearwater;146;B3;Bird Breeding Success: Manx Shearwater;Birds
+Fish;Fish;Commercial Fish;Whiting (Merlangius merlangus);13;F;F - Whiting (Merlangius merlangus);Fish
+Fish;Fish;Commercial Fish;Whiting (Merlangius merlangus);13;SSB;SSB - Whiting (Merlangius merlangus);Fish
+Birds;Birds;Birds;;;;Biological value Seabirds;Birds
+Fish;Fish;Fish;;;MBV;Biological value Demersal Fish;Fish
+Cetaceans;Mammals;Mammals;;;;Biological value Mammals;Mammals
+Fish;Fish;Fish;;;;Catch-biomass ratio Engraulis;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation Engraulis;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation L. boscii;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation L. budegassa;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation L. piscatorius;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation L. whiffiagonis;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation Merluccius;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation Micromesistius;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation Scomber;Fish
+Fish;Fish;Fish;;;;Fish larger than mean size 1st sexual maturation Trachurus;Fish
+Fish;Fish;Fish;;;F;Fishing mortality L. boscii (8c9a);Fish
+Fish;Fish;Fish;;;F;Fishing mortality L. budegassa (VIIIC & Ixa);Fish
+Fish;Fish;Fish;;;F;Fishing mortality L. piscatorius;Fish
+Fish;Fish;Fish;;;F;Fishing mortality L. whiffiagonis (8c9a);Fish
+Fish;Fish;Fish;;;F;Fishing Mortality Merluccius  Iberian Waters;Fish
+Fish;Fish;Fish;;;F;Fishing mortality Merluccius BoB+North;Fish
+Fish;Fish;Fish;;;F;Fishing mortality Micromesistius (I-IX);Fish
+Fish;Fish;Fish;;;F;Fishing mortality Sardine VIIIc+Ixa;Fish
+Fish;Fish;Fish;;;F;Fishing mortality Scomber (NEAM);Fish
+Fish;Fish;Fish;;;F;Fishing mortality T. alalunga;Fish
+Fish;Fish;Fish;;;F;Fishing mortality T. thynnus;Fish
+Fish;Fish;Fish;;;F;Fishing mortality Trachurus;Fish
+Fish;Fish;Fish;;;LFI;Proportion of fish larger than 1000 mm;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Engraulis;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass L. boscii (8c9a);Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass L. budegassa BoBiscay;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass L. piscatorius BoBiscay;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass L. whiffiagonis (8c9a);Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Merluccius BoBiscay+North;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Merluccius Iberian Waters;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Micromesistius;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Sardine VIIIc-Ixa;Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Scomber (NEAM);Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass T. alalunga (Natlantic stock);Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass T. thynnus East Atlantic + Med);Fish
+Fish;Fish;Fish;;;SSB;Spawning-stock biomass Trachurus;Fish
+Macroalgae;Benthic Habitats;Macrophytes;;;;Biological value Macroalgae;Benthic_Habitats
+Benthic fauna quality;Benthic Habitats;Benthic habitats;;;;Biological value Macroinvertebrates;Benthic_Habitats
+Zooplankton;Pelagic Habitats;Zooplankton;;;;Biological value Zooplankton;Pelagic_Habitats
+Phytoplankton;Pelagic Habitats;Phytoplankton;;;;Blooms of any phytoplankton taxa;Pelagic_Habitats
