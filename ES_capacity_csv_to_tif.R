@@ -12,7 +12,7 @@ library(rgdal)
 library(sp)
 library(sf)
 
-#single file
+#single file test
 df <-read.csv("C:/Users/THH/OneDrive - NIVA/EEA task 1.6.2.6/EEA_ES_capacity/R_SJ_THH/Output/cultural_bathing_sites_CEA_area_as_weight_coastal.csv", sep=";")
 dfgrid<- df
 
@@ -20,6 +20,7 @@ folderin<-"Output"
 folderout<-"GIS"
 filelist<-list.files(path=folderin,pattern="*.csv")
 
+#projection of tif file
 crsEEA <- CRS("+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +units=m +no_defs") #original proj in EEA grid
 
  for(file in filelist){
