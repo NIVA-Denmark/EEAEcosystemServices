@@ -1,6 +1,6 @@
 
 
-getwd()
+getwd() # check  wd
 
 
 library(readr)
@@ -13,15 +13,30 @@ library(sp)
 library(sf)
 
 #single file test
-df <-read.csv("C:/Users/THH/OneDrive - NIVA/EEA task 1.6.2.6/EEA_ES_capacity/R_SJ_THH/Output/cultural_bathing_sites_CEA_area_as_weight_coastal.csv", sep=";")
-dfgrid<- df
+# df <-read.csv("R_SJ_THH/Output/Ready/cultural_bathing_sites_BEAT_area_as_weight_coastal.csv", sep=";")
+# dfgrid<- df
 
-folderin<-"Output"
-folderout<-"GIS"
-filelist<-list.files(path=folderin,pattern="*.csv")
+folderin<-"R_SJ_THH/Output" # change accordingly
+folderout<-"GIS" #change accordingly
+
+
+filelistin <- list.files(folderin)
+filelistout <- list.files(folderout)
+
+#filelist<-list.files(path=folderin,pattern="*.csv")
+#filelist_out<-list.files(path=folderout,pattern="*.tif")
+
 
 #projection of tif file
 crsEEA <- CRS("+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +units=m +no_defs") #original proj in EEA grid
+
+
+
+# the following line excludes files already found in the output folder
+# if you want to rerun a particular file, delete it from the output folder
+filelist<-filelistin[!sub('\\..[^\\.]*$', '', filelistin) %in% sub('\\..[^\\.]*$', '', filelistout)] 
+
+#read in all results and create as tif files
 
  for(file in filelist){
 
@@ -46,41 +61,3 @@ crsEEA <- CRS("+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=G
   writeRaster(ras,file=paste0(folderout,"/",file), overwrite=F,"GTiff") #  
          
  }
-
-
-
-
-dat$NAME_1 <- as.factor(dat$NAME_1)
-
-# Define RasterLayer object
-r.raster <- raster()
-
-# Define raster extent
-extent(r.raster) <- extent(dat)
-
-# Define pixel size
-res(r.raster) <- 0.1
-
-# rasterize a factor
-r <- ratify(ras)
-rat <- levels(r)[[1]]
-rat$landcover <- c('Pine', 'Oak', 'Meadow')
-rat$code <- c(12,25,30)
-levels(r) <- rat
-r
-
-
-
-ras <- rasterize(x = dat, y = r.raster, field = "NAME_1")
-
-  setwd("GIS")
-  writeRaster(ras,file=fileout, overwrite=F, "GTiff") 
-  
-
-
-cnames = c('EofOrigin' = 'EofOrigin.x', 'NofOrigin' = 'NofOrigin.x')
-flood_capacity<-flood_capacity %>% rename(!!!cnames)
-
-
-cnames = c('X' = 'x_etrs', 'Y' = 'y_etrs')
-flood_capacity<-flood_capacity %>% rename(!!!cnames)
